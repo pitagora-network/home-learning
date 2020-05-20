@@ -1,5 +1,5 @@
 
-[[English|Home Learning]] -- [[Français|Home Learning (fr)]] -- **日本語** -- [[ไทย|Home Learning (th)]] -- [[Admin|Home Learning (admin)]]
+[English](../en/) -- [Français](../fr/) -- [日本語](../ja/) -- [ไทย](../th/) -- [Admin]()
 
 ***
 
