@@ -1,6 +1,5 @@
 
-**English** -- [[Français|Home Learning (fr)]] -- [[日本語|Home Learning (ja)]] -- [[ไทย|Home Learning (th)]] -- 
-[[Admin|Home Learning (admin)]]
+**English** -- [Français]() -- [日本語](./ja/index.md) -- [ไทย]() -- [Admin]()
 
 ***
 
