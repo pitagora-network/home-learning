@@ -1,5 +1,5 @@
 
-**English** -- [Français]() -- [日本語](./ja/index.md) -- [ไทย]() -- [Admin]()
+**English** -- [Français](./fr/) -- [日本語](./ja/) -- [ไทย](./th/) -- [Admin]()
 
 ***
 
