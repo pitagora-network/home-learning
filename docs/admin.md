@@ -27,9 +27,6 @@
 * How to Calculate GC-Content?
     * [French](https://colab.research.google.com/drive/1FF6af2lpa7_2gvE3TpThveq9zw7XARRt)
     / [Japanese](https://colab.research.google.com/drive/1Tcxee6Ts-BLHxNBIWraWAXr3Hv6z-LvX)
-* Where are Genes?
-    * French
-    / Japanese
 * How to Draw Phylogenetic Tree
     * French
     / [Japanese](https://colab.research.google.com/drive/15SZYA2EPquExE_e1LtCna3I-XC0hmfG1)
