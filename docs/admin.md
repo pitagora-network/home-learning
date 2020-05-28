@@ -19,36 +19,19 @@
 ### Draft Version
 
 * How to Map COVID-19 Spread?
-    * [English](https://colab.research.google.com/drive/1KM2tCzKjFTtbvX2dI5dkNfjgHDboYyrn)
-    / [French](https://colab.research.google.com/drive/17szTwsAuBBtOrT8WPbdoLg60_OS6Q3FT) 
+    * [French](https://colab.research.google.com/drive/17szTwsAuBBtOrT8WPbdoLg60_OS6Q3FT) 
     / [Japanese](https://colab.research.google.com/drive/1iFxRju4FmN7hkF7lAWziqjKbpOmehTzT)
-* What is RNA Sequence?
-    * English
-    / French
-    / Japanese
 * How to Download Sequences?
-    *  [English](https://colab.research.google.com/drive/1a10i4kaeZONj0E47s1ioLPKHxZiWy-Hy)
-    / [French](https://colab.research.google.com/drive/1EtCzY1WRAJt21jB8lPVOu4woBvqZz338)
+    * [French](https://colab.research.google.com/drive/1EtCzY1WRAJt21jB8lPVOu4woBvqZz338)
     / [Japanese](https://colab.research.google.com/drive/1jMFTbf0uQ-t7-SYwk9QEUO8VBHbpPEv5)
 * How to Calculate GC-Content?
-    * [English](https://colab.research.google.com/drive/1TMerLE7yJpYixlYR-B9-iZG-j-mMeX8W)
-    / [French](https://colab.research.google.com/drive/1FF6af2lpa7_2gvE3TpThveq9zw7XARRt)
+    * [French](https://colab.research.google.com/drive/1FF6af2lpa7_2gvE3TpThveq9zw7XARRt)
     / [Japanese](https://colab.research.google.com/drive/1Tcxee6Ts-BLHxNBIWraWAXr3Hv6z-LvX)
-* How to Compare Poly-A Length?
-    * English
-    / French
-    / Japanese
-* ATGC or AUGC which and why?
-    * English
-    / French
-    / Japanese
 * Where are Genes?
-    * [English](https://colab.research.google.com/drive/1dIFj1Jv3PfWxZfeNLBDOcoxQQla9imDU)
-    / French
+    * French
     / Japanese
 * How to Draw Phylogenetic Tree
-    * [English](https://colab.research.google.com/drive/1gNeF1gBOgGruXweBL77qcOm6rjp1wxvA)
-    / French
+    * French
     / [Japanese](https://colab.research.google.com/drive/15SZYA2EPquExE_e1LtCna3I-XC0hmfG1)
 * How to Make Multi-FASTA File
     * [English](https://colab.research.google.com/drive/1SMgas36gdPM-xG1KtluBlPc5GVIj7wFQ)
