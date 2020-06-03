@@ -28,7 +28,7 @@
 ### Comment Télécharger les Séquences ?
 
 * Comment télécharger les données de séquence ARN des coronavirus à partir des archives de données publiques.
-* [Tutoriel](https://colab.research.google.com/drive/1EtCzY1WRAJt21jB8lPVOu4woBvqZz338) (5 min)
+* [Tutoriel](https://colab.research.google.com/drive/1fzwQZY71kBxUYevOSuTcOr-ozmdFtJz6) (5 min)
 
 ![](https://user-images.githubusercontent.com/4862919/78663059-b2328080-78fb-11ea-8b13-0f78289c9236.jpg)
 
