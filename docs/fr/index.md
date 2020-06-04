@@ -18,10 +18,10 @@
 
 ### Qu'est-ce qu'une Séquence ARN ?
 * Dans ce tutoriel, nous analyserons les séquences ARN de **4 coronavirus**:
-  * SARS-Cov-2 (COVID 19) [MN908947]
+  * [COVID-19 [MN908947]](https://www.ncbi.nlm.nih.gov/nuccore/MN908947)
   * [SARS related coronavirus [AY27411.3]](https://www.ncbi.nlm.nih.gov/nuccore/AY274119.3)
-  * MERS-related-coronavirus [JX869059.2]
-  * Guandong chinese water stink coronavirus [MG600026.1]
+  * [MERS related coronavirus [JX869059.2]](https://www.ncbi.nlm.nih.gov/nuccore/JX869059.2)
+  * [Chinese water skink coronavirus [MG600026.1]](https://www.ncbi.nlm.nih.gov/nuccore/MG600026.1)
 
 ![](https://user-images.githubusercontent.com/4862919/78664676-b4e2a500-78fe-11ea-82da-ade58ad0813c.jpg)
 

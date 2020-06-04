@@ -19,10 +19,10 @@
 
 ### What is RNA Sequence?
 * In this tutorial, we will analyze the RNA sequences of **4 coronaviruses**:
-  * [COVID 19 [MN908947]](https://www.ncbi.nlm.nih.gov/nuccore/MN908947)
+  * [COVID-19 [MN908947]](https://www.ncbi.nlm.nih.gov/nuccore/MN908947)
   * [SARS related coronavirus [AY27411.3]](https://www.ncbi.nlm.nih.gov/nuccore/AY274119.3)
   * [MERS related coronavirus [JX869059.2]](https://www.ncbi.nlm.nih.gov/nuccore/JX869059.2)
-  * [Chinese water stink coronavirus [MG600026.1]](https://www.ncbi.nlm.nih.gov/nuccore/MG600026.1)
+  * [Chinese water skink coronavirus [MG600026.1]](https://www.ncbi.nlm.nih.gov/nuccore/MG600026.1)
 
 ![](https://user-images.githubusercontent.com/4862919/78664676-b4e2a500-78fe-11ea-82da-ade58ad0813c.jpg)
 
