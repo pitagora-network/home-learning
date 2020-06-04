@@ -61,6 +61,8 @@
 
 * [Tutorial](https://colab.research.google.com/drive/1RIuebEJZs2f7pzT6HzhH9He4kndk9rPJ) (約10分)
 
+![](https://user-images.githubusercontent.com/4862919/78868580-630c5d00-7a6d-11ea-92f3-f16dd7060dd1.jpg)
+
 ## さらに一歩先へ！
 
 ### 数字のデータから世界の新型コロナウイルス感染者を地図上で表してみよう！
