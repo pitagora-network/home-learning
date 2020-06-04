@@ -18,7 +18,7 @@
 
 ### Qu'est-ce qu'une Séquence ARN ?
 * Dans ce tutoriel, nous analyserons les séquences ARN de **4 coronavirus**:
-  * [SRAS-CoV-2 [MN908947]](https://www.ncbi.nlm.nih.gov/nuccore/MN908947)
+  * [SRAS-CoV-2 (COVID-19) [MN908947]](https://www.ncbi.nlm.nih.gov/nuccore/MN908947)
   * [coronavirus du syndrome respiratoire aigu sévère [AY27411.3]](https://www.ncbi.nlm.nih.gov/nuccore/AY274119.3)
   * [coronavirus du syndrome respiratoire du Moyen-Orient [JX869059.2]](https://www.ncbi.nlm.nih.gov/nuccore/JX869059.2)
   * [coronavirus de la Scinque aquatique vivipare de Chine [MG600026.1]](https://www.ncbi.nlm.nih.gov/nuccore/MG600026.1)

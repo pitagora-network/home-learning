@@ -19,7 +19,7 @@
 
 ### RNA Sequence คืออะไร?
 * In this tutorial, we will analyze the RNA sequences of 4 coronaviruses:
-  * [COVID-19 [MN908947]](https://www.ncbi.nlm.nih.gov/nuccore/MN908947)
+  * [SRAS-CoV-2 (COVID-19) [MN908947]](https://www.ncbi.nlm.nih.gov/nuccore/MN908947)
   * [SARS related coronavirus [AY27411.3]](https://www.ncbi.nlm.nih.gov/nuccore/AY274119.3)
   * [MERS related coronavirus [JX869059.2]](https://www.ncbi.nlm.nih.gov/nuccore/JX869059.2)
   * [Chinese water skink coronavirus [MG600026.1]](https://www.ncbi.nlm.nih.gov/nuccore/MG600026.1)

@@ -15,7 +15,7 @@
 
 ### RNA配列とは？
 * このチュートリアルでは、以下の **4つの新型コロナウイルス** の解析を行います。
-  * [COVID-19 [MN908947]](https://www.ncbi.nlm.nih.gov/nuccore/MN908947)
+  * [SRAS-CoV-2 (COVID-19) [MN908947]](https://www.ncbi.nlm.nih.gov/nuccore/MN908947)
   * [SARS 関連のコロナウイルス [AY27411.3]](https://www.ncbi.nlm.nih.gov/nuccore/AY274119.3)
   * [MERS 関連のコロナウイルス [JX869059.2]](https://www.ncbi.nlm.nih.gov/nuccore/JX869059.2)
   * [中国水トカゲのコロナウイルス [MG600026.1]](https://www.ncbi.nlm.nih.gov/nuccore/MG600026.1)
