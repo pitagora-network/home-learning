@@ -6,10 +6,6 @@
 
 * [Presentation](https://docs.google.com/presentation/d/1o9iaRSMrCBSw1Ihw54rNC4hOsYgtfxYQE82mRcrWK_g/edit?usp=sharing)
 
-### Join Us!
-
-* Please join [virtual-biohackathon Slack workspace](https://join.slack.com/t/virtualbiohac-xt62674/shared_invite/zt-dqvramti-N7NUi2lSimsKXtHMroptXQ) and find **#homelearning** channel.
-
 ### Workflow
 
 * [Admin Sheet](https://docs.google.com/spreadsheets/d/1IL0F5bCVi7TGMXuKvwDSaPrsdvF5I_QwlVCawTt-L8U/edit?usp=sharing)
@@ -34,9 +30,6 @@
     * [English](https://colab.research.google.com/drive/1SMgas36gdPM-xG1KtluBlPc5GVIj7wFQ)
 * A Little Book of R For Bioinformatics
     * [Japanese](https://colab.research.google.com/drive/1JFmfxM7ewJPMz8lPrN6Ys9X5m5swTcVA)
-
-### Repository
-- https://github.com/pitagora-network/home-learning
 
 ### Annotation Example
 
