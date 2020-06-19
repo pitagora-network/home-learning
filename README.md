@@ -1,3 +1,1 @@
 # home-learning
-
-hello world
