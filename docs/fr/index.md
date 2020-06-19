@@ -5,7 +5,7 @@
 ### Contexte
 
 * Beaucoup de gens ont le temps d'apprendre à propos du génome du virus à la maison
-* Créer du matériel d'apprentissage à domicile pour les débutants en bioinformatic
+* Créer du matériel d'apprentissage à domicile pour les débutants en bioinformatique
 
 ![Contexte](https://user-images.githubusercontent.com/4862919/78474337-132c4e00-776e-11ea-86da-6f09aaa1aef8.jpg)
 
