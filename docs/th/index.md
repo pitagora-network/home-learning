@@ -29,7 +29,7 @@
 ### วิธีดาวน์โหลด Sequences?
 
 * วิธีการดาวน์โหลดข้อมูล RNA sequence data of coronaviruses จากคลังข้อมูลสาธารณะ
-* [Tutorial](https://colab.research.google.com/drive/1a10i4kaeZONj0E47s1ioLPKHxZiWy-Hy) (5 นาที)
+* [Tutorial](https://colab.research.google.com/drive/1ebB0VuxSIZzxmRRlyKITAoSQAgV0A5yO) (5 นาที)
 
 ![](https://user-images.githubusercontent.com/4862919/78663059-b2328080-78fb-11ea-8b13-0f78289c9236.jpg)
 
