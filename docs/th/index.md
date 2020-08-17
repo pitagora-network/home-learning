@@ -13,7 +13,7 @@
 
 ### วิธีการวางหมุดการแพร่กระจายของ COVID-19
 
-* [Tutorial](https://colab.research.google.com/drive/1zBD5DzbK2Yz2-oPiFgWn8JTIfeFbs8UA) (5 นาที)
+* [Tutorial](https://colab.research.google.com/drive/125YSO7AazGRoGtClOP2r7YZMDn9j0oWO) (5 นาที)
 
 ![](https://user-images.githubusercontent.com/4862919/78878771-20eb1780-7a7d-11ea-85da-71049fea984e.jpg)
 
