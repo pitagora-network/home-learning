@@ -12,7 +12,7 @@
 ### Comment Cartographier la Propagation du COVID-19 ?
 
 * Pour lancer les scripts, copiez d'abord ce tutoriel chez vous: **File > Save a copy in Drive**
-* [Tutoriel](https://colab.research.google.com/drive/1zBD5DzbK2Yz2-oPiFgWn8JTIfeFbs8UA) (5 min)
+* [Tutoriel](https://colab.research.google.com/drive/1OodZFpnlbJs4sKJo_SwABKaUlro6zSxj) (5 min)
 
 ![](https://user-images.githubusercontent.com/4862919/78878771-20eb1780-7a7d-11ea-85da-71049fea984e.jpg)
 
@@ -56,6 +56,6 @@
 
 ### Comment Dessiner un Arbre Phylogénétique ?
 
-* [Tutoriel](https://colab.research.google.com/drive/1gNeF1gBOgGruXweBL77qcOm6rjp1wxvA) (10 min)
+* [Tutoriel](https://colab.research.google.com/drive/19tbvUYgon5HqierBxzoGiN5NFVd1A0qh) (10 min)
 
 ![](https://user-images.githubusercontent.com/4862919/78868580-630c5d00-7a6d-11ea-92f3-f16dd7060dd1.jpg)
