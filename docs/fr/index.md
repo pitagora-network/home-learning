@@ -35,7 +35,7 @@
 ### Comment Calculer le Contenu en GC ?
 
 * La séquence ARN est constituée de 4 types de caractères (= nucléotides): A & T(U) & G & C. Quelle est la proportion de G & C ?
-* [Tutoriel](https://colab.research.google.com/drive/1FF6af2lpa7_2gvE3TpThveq9zw7XARRt) (5 min)
+* [Tutoriel](https://colab.research.google.com/drive/1WfZspnlplUGCLlMWXLwZeo4pVsj3jV6k) (5 min)
 
 ![](https://user-images.githubusercontent.com/4862919/78663068-b52d7100-78fb-11ea-92c1-8e68a9377a81.jpg)
 
