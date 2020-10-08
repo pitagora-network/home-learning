@@ -15,17 +15,13 @@
 ### Draft Version
 
 * How to Map COVID-19 Spread?
-    * [French](https://colab.research.google.com/drive/17szTwsAuBBtOrT8WPbdoLg60_OS6Q3FT) 
-    / [Japanese](https://colab.research.google.com/drive/1iFxRju4FmN7hkF7lAWziqjKbpOmehTzT)
+    * [Japanese](https://colab.research.google.com/drive/1iFxRju4FmN7hkF7lAWziqjKbpOmehTzT)
 * How to Download Sequences?
-    * [French](https://colab.research.google.com/drive/1EtCzY1WRAJt21jB8lPVOu4woBvqZz338)
-    / [Japanese](https://colab.research.google.com/drive/1jMFTbf0uQ-t7-SYwk9QEUO8VBHbpPEv5)
+    * [Japanese](https://colab.research.google.com/drive/1jMFTbf0uQ-t7-SYwk9QEUO8VBHbpPEv5)
 * How to Calculate GC-Content?
-    * [French](https://colab.research.google.com/drive/1FF6af2lpa7_2gvE3TpThveq9zw7XARRt)
-    / [Japanese](https://colab.research.google.com/drive/1Tcxee6Ts-BLHxNBIWraWAXr3Hv6z-LvX)
+    * [Japanese](https://colab.research.google.com/drive/1Tcxee6Ts-BLHxNBIWraWAXr3Hv6z-LvX)
 * How to Draw Phylogenetic Tree
-    * French
-    / [Japanese](https://colab.research.google.com/drive/15SZYA2EPquExE_e1LtCna3I-XC0hmfG1)
+    * [Japanese](https://colab.research.google.com/drive/15SZYA2EPquExE_e1LtCna3I-XC0hmfG1)
 * How to Make Multi-FASTA File
     * [English](https://colab.research.google.com/drive/1SMgas36gdPM-xG1KtluBlPc5GVIj7wFQ)
 * A Little Book of R For Bioinformatics
