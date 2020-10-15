@@ -35,7 +35,7 @@
 
 ### How to Calculate GC-Content?
 
-* RNA sequence consists of 4 type of characters (= nucleotides): A & T(U) & G & C. What is the potion of G & C?
+* RNA sequence consists of 4 type of characters (= nucleotides): A & T(U) & G & C. What is the proportion of G & C?
 * [Tutorial](https://colab.research.google.com/drive/1cmfQFgn14-37GVxsxU6XyTOkEZk1K-kq) (5 min)
 
 ![](https://user-images.githubusercontent.com/4862919/78663068-b52d7100-78fb-11ea-92c1-8e68a9377a81.jpg)
