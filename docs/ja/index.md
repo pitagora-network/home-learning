@@ -28,7 +28,7 @@
 
 * 次のTutorialで、実際に公開されてるコロナウイルスのRNA配列データをダウンロードして、長さを見てみましょう！
 
-* [Tutorial](https://colab.research.google.com/drive/1SsEARPWrNQrp_I_2su6-R-gyKliLObid) (約5分)
+* [チュートリアル](https://colab.research.google.com/drive/1VM3tePKTTBjr5vHy_oeayZdSDNjiuYK8) (約5分)
 
 ![](https://user-images.githubusercontent.com/4862919/78663059-b2328080-78fb-11ea-8b13-0f78289c9236.jpg)
 
