@@ -1,4 +1,4 @@
-[English](./en/) -- [Français](./fr/) -- [日本語](./ja/) -- [ไทย](./th/) -- [Admin](./admin.md)
+[English](./en/) -- [Français](./fr/) -- [Español](./es/) -- [日本語](./ja/) -- [ไทย](./th/) -- [Admin](./admin.md)
 
 In 2020, as the [COVID-19 pandemic](https://en.wikipedia.org/wiki/COVID-19_pandemic) spread across the globe, a majority of countries announced the temporary closure of schools, impacting more than 91 per cent of students worldwide. By April 2020, close to 1.6 billion children and youth were out of school.
 
