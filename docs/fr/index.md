@@ -1,4 +1,4 @@
-[English](../en/) -- [Français](../fr/) -- [日本語](../ja/) -- [ไทย](../th/) -- [Admin](../admin.md)
+[English](../en/) -- [Français](../fr/) -- [Español](../es/) -- [日本語](../ja/) -- [ไทย](../th/) -- [Admin](../admin.md)
 
 ***
 
