@@ -8,3 +8,5 @@ To address this issue, during the [biohackathon](https://github.com/virtual-bioh
 - Establish training material for an asynchronous approach, easy to adapt and quick to use for learners
 - Promote "atomic topics" with less than 10 minutes for the lesson
 - Be able to work with several translations at the same time
+
+The contents are all re-usable under **CC BY 4.0 lisence**.
