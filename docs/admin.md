@@ -21,11 +21,11 @@
 
 ### Annotation Example
 
-- Mandatory item
-  - Version: **01**
+- Mandatory items
+  - Version: **1** (for original) **1.1** (for translation)
   - Estimated time: **5 min**
   - Author: **Ryota Yamanaka**
-  - License: **CC0**
+  - License: **CC BY 4.0**
 - Not recommended
   - Last update --> This should be automated
 
