@@ -3,7 +3,7 @@
 
 ***
 
-## 新型コロナウイルスをテーマにバイオインフォマティクスを始めてみよう！ 
+### 新型コロナウイルスをテーマにバイオインフォマティクスを始めてみよう！ 
 
 * 家で何をしていいのかわからない、そこのあなた！
 * バイオインフォマティクスに興味があるけど何をやっていいのかわからない、そこのあなた！
@@ -11,9 +11,14 @@
 
 ![Background](https://user-images.githubusercontent.com/4862919/78474337-132c4e00-776e-11ea-86da-6f09aaa1aef8.jpg)
 
-## たとえばバイオインフォマティクスって何ができるの？
+### 世界の新型コロナウイルス感染者を地図上で表してみよう！
+
+* [Tutorial(ja)](https://colab.research.google.com/drive/1ijKaiIUEZ-SABA5Nvd5ID5EdwA1ZlGSn) (5 min)
+
+![](https://user-images.githubusercontent.com/4862919/78878771-20eb1780-7a7d-11ea-85da-71049fea984e.jpg)
 
 ### RNA配列とは？
+
 * このチュートリアルでは、以下の **4つの新型コロナウイルス** の解析を行います。
   * [SRAS-CoV-2 (COVID-19) [MN908947]](https://www.ncbi.nlm.nih.gov/nuccore/MN908947)
   * [SARS 関連のコロナウイルス [AY27411.3]](https://www.ncbi.nlm.nih.gov/nuccore/AY274119.3)
@@ -42,8 +47,6 @@
 
 ### ポリA尾部の長さを比較してみよう！
 
-なんでポリA尾部？()
-
 * Tutorial
 
 ### ATGC or AUGC which and why?
@@ -62,11 +65,3 @@
 * [Tutorial](https://colab.research.google.com/drive/1RIuebEJZs2f7pzT6HzhH9He4kndk9rPJ) (約10分)
 
 ![](https://user-images.githubusercontent.com/4862919/78868580-630c5d00-7a6d-11ea-92f3-f16dd7060dd1.jpg)
-
-## さらに一歩先へ！
-
-### 数字のデータから世界の新型コロナウイルス感染者を地図上で表してみよう！
-
-* [Tutorial(ja)](https://colab.research.google.com/drive/1ijKaiIUEZ-SABA5Nvd5ID5EdwA1ZlGSn) (5 min)
-
-![](https://user-images.githubusercontent.com/4862919/78878771-20eb1780-7a7d-11ea-85da-71049fea984e.jpg)
